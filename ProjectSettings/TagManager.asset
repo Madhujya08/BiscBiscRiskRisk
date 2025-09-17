@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Buff
+  - Enemy
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4153345579
+    locked: 0
+  - name: Clouds
+    uniqueID: 3502332915
+    locked: 0
+  - name: Far Objects
+    uniqueID: 2025755743
+    locked: 0
+  - name: Mid Objects
+    uniqueID: 1026149939
+    locked: 0
+  - name: Near Objects
+    uniqueID: 3966380201
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3290557045
+    locked: 0
+  m_RenderingLayers:
+  - Default
